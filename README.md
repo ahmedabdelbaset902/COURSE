@@ -1,4 +1,4 @@
-Online Course 
+((Online Course)) 
 This website is built using HTML, CSS, and JavaScript, offering a responsive design compatible with all devices.
 	•	Hero Section: Utilizes a flexible layout (flexbox) to display introductory text and an illustrative image in an organized way, along with a quick navigation button to the courses section.
 	•	Courses Section: Features course details displayed as cards, each containing a title, brief description, and an “Enroll Now” button.
